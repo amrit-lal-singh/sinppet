@@ -1,7 +1,7 @@
 
-# Snppiet.Code
+### Snppiet.Code
 
-A fully functional Ray.so clone (a powerful tool for sharing code snippets) with additional features. Share beautiful screenshots of your code on your social media platforms.
+A fully functional Ray.so clone (a powerful tool for sharing code snippets) with a lot of additional features. Share beautiful screenshots of your code on your social media platforms.
 
 ## Demo
 Link: https://sinppet-code.vercel.app/
